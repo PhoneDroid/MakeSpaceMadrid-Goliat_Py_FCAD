@@ -2,7 +2,7 @@
 
 The `goliat.py` file is run inside FreeCAD.
 Read the following tutorial to know how to run a python script from FreeCAD
-http://www.freecadweb.org/wiki/index.php?title=Python_scripting_tutorial
+https://wiki.freecad.org/index.php?title=Python_scripting_tutorial
 
 To run this file, run FreeCAD in the directory you have the `goliat.py` file
 

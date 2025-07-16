@@ -2,7 +2,7 @@
 
 El fichero `goliat.py` se ejecuta desde FreeCAD.
 Para saber cómo se ejecuta un fichero python en FreeCAD, lee este tutorial:
-http://www.freecadweb.org/wiki/index.php?title=Python_scripting_tutorial
+https://wiki.freecad.org/index.php?title=Python_scripting_tutorial
 
 Para ejecutar este fichero, ejecuto el FreeCAD en el directorio donde tengo el fichero `goliat.py`
 

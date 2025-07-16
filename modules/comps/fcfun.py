@@ -511,7 +511,7 @@ def shpRndRectWire (x=1, y=1, r= 0.5, zpos = 0):
         # it seems that it matters the order
         # for this example, it doesnt work if I do Part.Shape as in the 
         # example:
-        # http://freecadweb.org/wiki/index.php?title=Topological_data_scripting
+        # https://wiki.freecad.org/index.php?title=Topological_data_scripting
         wire_rndrect = Part.Wire ([
                                      lx0,
                                      arch_00,
